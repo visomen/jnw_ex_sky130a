@@ -6,14 +6,14 @@
 [![SIM](../../actions/workflows/sim.yaml/badge.svg)](../../actions/workflows/sim.yaml)
 
 # Who
-domen
+Domen Visnar
 
 # Why
-
+For learning how to use the tools
 <explain why you made this module>
 
 # How
-
+Following the tutorial :)
 <explain short how you made this module>
 
 
