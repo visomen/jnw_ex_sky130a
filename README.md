@@ -28,6 +28,7 @@ Following the tutorial :)
 # Changelog/Plan
 
 | Version | Status | Comment|
+|:---| :--- | |:---|
 |0.1.1 | :x: | Cascode mirror current|
 |0.1.0 | :x: | Make something |
 
@@ -38,8 +39,6 @@ Following the tutorial :)
 | :---         | :---:     | :---:   | :---                                      |
 | VDD_1V8         | Input     | VDD_1V8 | Main supply                              |
 | VSS         | Input     | Ground  |                                           |
-| PWRUP_1V8     | Input    | VDD_1V8 | Power up the circuit                       |
-
 
 # Key parameters
 
