@@ -9,7 +9,7 @@ tagline: The answer is 42
 # Your email, if you so wish
 email: domen2.visnar@gmail.com
 # Your github site, usually <github username>.github.io
-url: https://github.com/visomen
+url: visomen.github.io
 doc:
   libraries:
     JNW_EX_SKY130A:
