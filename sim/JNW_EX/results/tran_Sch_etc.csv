@@ -1,9 +1,9 @@
 ,ibns_20u,vgs_m1,name,type,time,OK
-0,21.899530000000002,0.7579693,tran_SchGtKfsTlVt,Sch,Tue Jan 14 13:23:36 2025,False
-1,22.16221,0.6853885,tran_SchGtKsfTlVt,Sch,Tue Jan 14 13:23:35 2025,True
-2,22.136,0.6953352,tran_SchGtKffTlVt,Sch,Tue Jan 14 13:23:34 2025,True
-3,21.931,0.7480519,tran_SchGtKssTlVt,Sch,Tue Jan 14 13:23:33 2025,False
-4,21.63854,0.6838292,tran_SchGtKfsThVt,Sch,Tue Jan 14 13:23:32 2025,True
-5,21.84498,0.6037322,tran_SchGtKsfThVt,Sch,Tue Jan 14 13:23:31 2025,True
-6,21.82323,0.6137307,tran_SchGtKffThVt,Sch,Tue Jan 14 13:23:30 2025,True
-7,21.66547,0.673817,tran_SchGtKssThVt,Sch,Tue Jan 14 13:23:29 2025,True
+0,20.01985,0.7579692,tran_SchGtKfsTlVt,Sch,Thu Jan 16 13:09:26 2025,False
+1,19.994960000000003,0.6853885,tran_SchGtKsfTlVt,Sch,Thu Jan 16 13:09:25 2025,True
+2,19.99352,0.6953353,tran_SchGtKffTlVt,Sch,Thu Jan 16 13:09:24 2025,True
+3,20.01858,0.7480519,tran_SchGtKssTlVt,Sch,Thu Jan 16 13:09:23 2025,False
+4,20.02511,0.6838283,tran_SchGtKfsThVt,Sch,Thu Jan 16 13:09:23 2025,True
+5,19.99513,0.6037315,tran_SchGtKsfThVt,Sch,Thu Jan 16 13:09:22 2025,True
+6,19.99341,0.61373,tran_SchGtKffThVt,Sch,Thu Jan 16 13:09:21 2025,True
+7,20.02359,0.6738161,tran_SchGtKssThVt,Sch,Thu Jan 16 13:09:20 2025,True
