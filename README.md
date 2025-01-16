@@ -28,9 +28,9 @@ Following the tutorial :)
 # Changelog/Plan
 
 | Version | Status | Comment|
-|:---| :--- | |:---|
-|0.1.1 | :x: | Cascode mirror current|
-|0.1.0 | :x: | Make something |
+| :--- | :--- | :--- |
+| 0.1.1 | :x: | Cascode mirror current|
+| 0.1.0 | :x: | Make something |
 
 
 # Signal interface
